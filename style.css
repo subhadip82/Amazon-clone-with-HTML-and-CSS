@@ -120,6 +120,27 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
+/** panel style**/
+.panel{
+    height: 39px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panle-option p{
+    display: inline;
+    margin-left: 15px;
+}
+.panle-option{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.panel-dels{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
 
 
 
