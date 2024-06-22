@@ -201,7 +201,21 @@ align-items: flex-end;
   .box-content2   p {
     color: #007185;
   }
+  .box-img7{
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-left: 3rem;
+  }
 
+.box-content7 p{
+        color: #007185;}
+.box-img4{
+    height:200px ;
+    width: 100%;
+}
+.box-content1 p {
+color: #007185;
+}
 
 
 
